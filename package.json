@@ -1,0 +1,20 @@
+{
+  "name": "GitHub-Actions-TestCafe-Teams",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YA-androidapp/GitHub-Actions-TestCafe-Teams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YA-androidapp/GitHub-Actions-TestCafe-Teams/issues"
+  },
+  "homepage": "https://github.com/YA-androidapp/GitHub-Actions-TestCafe-Teams#readme"
+}
